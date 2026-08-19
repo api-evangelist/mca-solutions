@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: Acquired by Marlin Equity Partners in March 2012 and merged into Servigistics (now PTC);
   no live website or API surface as of 2026-07-20.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
